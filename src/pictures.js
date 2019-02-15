@@ -1,0 +1,16 @@
+<img src="slideshow-pictures/backyardsun.JPG" >
+<img src="slideshow-pictures/bluebottle.jpg" >
+<img src="slideshow-picutres/channingsunrise.JPG" >
+<img src="slideshow-picutres/channingsunset.jpg" >
+<img src="slideshow-pictures/fallunit2.JPG" >
+<img src="slideshow-picutres/gadaniwall.jpg" >
+<img src="slideshow-picutres/greatwall.JPG" >
+<img src="slideshow-picutres/homecafe.JPG" >
+<img src="slideshow-picutres/koreapalace.JPG" >
+<img src="slideshow-picutres/paintedladies.jpg" >
+<img src="slideshow-picutres/seabrightrock.JPG" >
+<img src="slideshow-picutres/sfcar.JPG" >
+<img src="slideshow-picutres/stickhut.JPG" >
+<img src="slideshow-picutres/sue'smatcha.JPG" >
+<img src="slideshow-picutres/voyagermatcha.jpg" >
+<img src="slideshow-picutres/yaliswall.jpg" >
