@@ -11,7 +11,7 @@ class Home extends Component {
               RACHEL LAU
               <br />
               <div className="header-subtitle">
-                <a className="link-animation" href="#">about me</a>
+                <a href="#about-me" className="link-animation">about me</a>
                 &nbsp;•&nbsp;
                 <a className="link-animation" href="#">projects</a>
                 &nbsp;•&nbsp;

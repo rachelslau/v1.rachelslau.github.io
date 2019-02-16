@@ -1,11 +1,30 @@
+.about-box-size {
+  position: absolute;
+  font-size: 15px;
+  width: 75vw;
+  height: 75vh;
+  background-color: white;
+  padding: 2.5%;
+  left: 0%;
+  margin: 3%;
+}
+
 .boxed {
   position: absolute;
   width: 90vw;
+  height: 80vh;
   background-color: white;
-  border: 1px solid #FCD1A4;
-  padding: 2%;
-  padding-top: .05%;
+  border: 2px solid #FCD1A4;
+  padding: 2.5%;
   box-shadow: 15px -15px 0px 0px #FCD1A4;
   left: 0%;
   margin: 2.5%;
+}
+
+.title-shadow {
+  font-size: 25px;
+  position: relative;
+  width: 15vw;
+  height: 5px;
+  background-color: #FCE3C9;
 }

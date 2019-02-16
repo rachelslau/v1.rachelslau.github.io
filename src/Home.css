@@ -40,6 +40,8 @@
   position: relative;
   color: white;
   text-decoration: none;
+  margin-top: 5%;
+  padding-top: 5%;
 }
 
 .link-animation:hover {
@@ -51,6 +53,7 @@
   position: absolute;
   width: 0;
   left: 0;
+  bottom: -5%;
   height: 1px;
   background: #DEE2E5;
   transition: all 0.4s ease all 0s;
