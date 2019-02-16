@@ -1,0 +1,11 @@
+.boxed {
+  position: absolute;
+  width: 90vw;
+  background-color: white;
+  border: 1px solid #FCD1A4;
+  padding: 2%;
+  padding-top: .05%;
+  box-shadow: 15px -15px 0px 0px #FCD1A4;
+  left: 0%;
+  margin: 2.5%;
+}

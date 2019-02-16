@@ -1,85 +1,18 @@
-body {
+body, html{
   margin: 1%;
-  font-family: 'Cutive Mono';
+  font-family: 'Cutive Mono', monospace;
   background-color: #FCE3C9;
+  scroll-behavior: smooth;
 }
 
 .App {
   text-align: center;
 }
 
-.slides {
-  display: none;
-}
-
-.pictures {
-  height: 90vh;
-}
-
-.slideshow {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("slideshow-pictures/bluebottle.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  min-height: 90vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.header-name {
-  margin: auto;
-  padding: 0;
-  text-align: center;
-  position: absolute;
-  font-size: 3.5vw;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
-
-.header-subtitle {
-  font-size: 1.5vw;
-}
-
-.link-animation {
-  position: relative;
-  color: white;
-  text-decoration: none;
-}
-
-.link-animation:hover {
-  color: #DEE2E5;
-}
-
-.link-animation::after {
-  content: "";
-  position: absolute;
-  width: 0;
-  left: 0;
-  height: 1px;
-  background: #DEE2E5;
-  transition: all 0.3s ease all 0s;
-}
-
-.link-animation:hover::after {
-  width: 100%;
-  transition: 0.3s ease all;
-}
-
 .responsive {
   width: 100%;
   height: auto;
 }
-
-
-
-
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
