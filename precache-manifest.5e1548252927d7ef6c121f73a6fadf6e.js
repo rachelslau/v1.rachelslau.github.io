@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/koreapalace.eaec2ef9.JPG"
   },
   {
-    "revision": "76749c4d0ab261b67300",
-    "url": "/static/css/main.737cd1f9.chunk.css"
+    "revision": "e482dad45f7236e12fa5",
+    "url": "/static/css/main.1cd393dd.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/homecafe.7e25b8dc.JPG"
   },
   {
-    "revision": "76749c4d0ab261b67300",
-    "url": "/static/js/main.76749c4d.chunk.js"
+    "revision": "e482dad45f7236e12fa5",
+    "url": "/static/js/main.e482dad4.chunk.js"
   },
   {
     "revision": "c117a78892438ade8baa497c767a9bc8",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.5fb16b32.chunk.css"
   },
   {
-    "revision": "e33dbc8fdc15336d1c67baf746f48db3",
+    "revision": "b62c096187c2cc73d384eeffbc0b6077",
     "url": "/index.html"
   }
 ];
