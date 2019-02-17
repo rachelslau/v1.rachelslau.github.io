@@ -1,6 +1,8 @@
 body, html{
   font-family: 'Cutive Mono', monospace;
   scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
+  overflow: auto;
 }
 
 .App {
@@ -63,4 +65,8 @@ body, html{
   width: 100%;
   bottom: -10%;
   transition: 0.3s ease all;
+}
+
+section {
+  scroll-snap-align: start;
 }

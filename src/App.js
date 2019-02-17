@@ -10,10 +10,18 @@ class App extends Component {
   render() {
     return (
       <div>
-      <Home/>
-      <About/>
-      <Projects/>
-      <Coffee/>
+      <section>
+        <Home/>
+      </section>
+      <section>
+        <About/>
+      </section>
+      <section>
+        <Projects/>
+      </section>
+      <section>
+        <Coffee/>
+      </section>
       </div>
     );
   }
