@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://rachelslau.github.io",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-image-gallery": "^0.8.12",
