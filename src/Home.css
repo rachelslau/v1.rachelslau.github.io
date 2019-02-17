@@ -19,7 +19,7 @@
 
 .slideshow {
   margin: 1%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("slideshow-pictures/bluebottle.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("./pics/slideshow-pictures/bluebottle.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
