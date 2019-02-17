@@ -1,7 +1,5 @@
 body, html{
-  margin: 1%;
   font-family: 'Cutive Mono', monospace;
-  background-color: #FCE3C9;
   scroll-behavior: smooth;
 }
 
@@ -14,12 +12,6 @@ body, html{
   height: auto;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
 .App-header {
   background-color: #ACC8E5;
   min-height: 100vh;
@@ -28,10 +20,6 @@ body, html{
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
   color: white;
 }
 

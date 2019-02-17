@@ -1,16 +1,37 @@
-.about-box-size {
-  position: absolute;
-  font-size: 15px;
-  width: 75vw;
+.about-background {
+  background-color: #FCE3C9;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  margin: 0%;
+  left: 0%;
+  overflow: auto;
+  display: block;
+}
+
+.about-title {
+  font-size: 300%;
+}
+
+.about-box {
+  display: relative;
+  font-size: 100%;
+  width: 55vw;
   height: 75vh;
   background-color: white;
   padding: 2.5%;
   left: 0%;
   margin: 3%;
+  margin-right: 0%;
+}
+
+.profile-box {
+  float: right;
+  width: 25vw;
+  background-color: white;
 }
 
 .boxed {
-  position: absolute;
   width: 90vw;
   height: 80vh;
   background-color: white;
@@ -22,7 +43,6 @@
 }
 
 .title-shadow {
-  font-size: 25px;
   position: relative;
   width: 15vw;
   height: 5px;

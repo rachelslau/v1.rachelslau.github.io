@@ -3,6 +3,7 @@ import './App.css';
 import './slideshow.js';
 import Home from './Home.js';
 import About from './About.js';
+import Projects from './Projects.js';
 
 class App extends Component {
   render() {
@@ -10,6 +11,7 @@ class App extends Component {
       <div>
       <Home/>
       <About/>
+      <Projects/>
       </div>
     );
   }
