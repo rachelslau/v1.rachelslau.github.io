@@ -9,22 +9,6 @@
   display: block;
 }
 
-.about-title {
-  font-size: 300%;
-}
-
-.about-box {
-  display: relative;
-  font-size: 100%;
-  width: 55vw;
-  height: 75vh;
-  background-color: white;
-  padding: 2.5%;
-  left: 0%;
-  margin: 3%;
-  margin-right: 0%;
-}
-
 .profile-box {
   float: right;
   width: 25vw;
@@ -35,6 +19,7 @@
   width: 90vw;
   height: 80vh;
   background-color: white;
+  border-radius: .5%;
   border: 2px solid #FCD1A4;
   padding: 2.5%;
   box-shadow: 15px -15px 0px 0px #FCD1A4;
@@ -42,7 +27,7 @@
   margin: 2.5%;
 }
 
-.title-shadow {
+.about-shadow {
   position: relative;
   width: 15vw;
   height: 5px;

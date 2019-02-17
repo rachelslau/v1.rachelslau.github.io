@@ -10,17 +10,17 @@ class About extends Component {
       <div className="boxed">
         <p>
           <div className="profile-box">
-            <img src={ProfilePicture} alt="profile picture" width="100%"></img>
-            </div>
-          <div className="about-title">about me</div>
-          <div className="title-shadow"></div>
+            <img src={ProfilePicture} alt="profile picture" width="100%"/>
+          </div>
+          <div className="title">about me</div>
+          <div className="about-shadow"></div>
           <br /><br />
           Hey you! I hope you’re having a great day today.
           <br /><br />
           I’m Rachel, a second year studying Data Science at UC Berkeley. My career interests currently include data analysis, UI/UX design, and software development.
           <br /><br />
           In addition to dedicating countless hours debugging my spelling errors and listening to advice podcasts, I enjoy thrift shopping, bullet journaling, and binge watching Friends (at 1.3x speed).
-          <br /><br /><br /><br /><br /><br /><br />
+          <br /><br /><br /><br /><br /><br />
           2019 New Year Resolutions:
           <ul>
             <li>try to meditate for 60 minutes each week</li>

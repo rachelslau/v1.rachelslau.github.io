@@ -7,6 +7,22 @@ body, html{
   text-align: center;
 }
 
+.title-box {
+  display: absolute;
+  font-size: 100%;
+  width: 55vw;
+  height: 75vh;
+  background-color: white;
+  padding: 2.5%;
+  left: 0%;
+  margin: 3%;
+  margin-right: 0%;
+}
+
+.title {
+  font-size: 300%;
+}
+
 .responsive {
   width: 100%;
   height: auto;
@@ -47,13 +63,4 @@ body, html{
   width: 100%;
   bottom: -10%;
   transition: 0.3s ease all;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
