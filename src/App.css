@@ -47,17 +47,13 @@ body, html{
   text-decoration: none;
 }
 
-.link-animation:hover {
-  color: #DEE2E5;
-}
-
 .link-animation::after {
   content: "";
   position: absolute;
   width: 0;
   left: 0;
-  height: 1px;
-  background: #DEE2E5;
+  height: 2px;
+  background: white;
   transition: all 0.3s ease all 0s;
 }
 
