@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import './Projects.css';
-import P5 from './pics/projects/24-game.jpg'
-import CalHacks from './pics/projects/codebase.jpg'
+import P5 from './pics/projects/24-game.jpg';
+import Codebase from './pics/projects/codebase.jpg';
+import CalHacks from './pics/projects/calhacks.jpg';
 
 class Projects extends Component {
   render() {
@@ -24,14 +25,19 @@ class Projects extends Component {
               designed an online version of the 24 Points arithmetical card game
               <br /><br />
               objective is to use only parentheses, multiplication, division, addition, and subtraction to make the number 24 out of 4 cards
-              <br /><br /><br /><br />
+              <br /><br />
               <div className="project-pictures">
-                  <img src={CalHacks} alt="codebase logo" width="100%" />
+                  <img src={Codebase} alt="codebase logo" width="100%" />
               </div>
+              <br /><br />
               <div className="project-titles">Cal Hacks 6.0 Judging Portal</div>
               Node.js | PostgreSQL
               <br /><br />
               building a full-stack web application to streamline the judging system for collegiate hackathons
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <div className="project-pictures">
+                  <img src={CalHacks} alt="cal hacks logo" width="50%" />
+              </div>
               <br /><br />
               spring 2019 codebase mentored project
               <br /><br /><br /><br />

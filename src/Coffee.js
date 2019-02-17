@@ -20,7 +20,7 @@ class Coffee extends Component {
             href="https://anticoffeecoffeeclub.tumblr.com/"
             >here</a>
             !
-          <br /><br /><br /><br />
+          <br /><br />
         </p>
         <form action="recs.php" method="post">
           <p>i'm always looking for new places and drinks to try. if you have any suggestions, don't hesitate to enter them below!</p>
