@@ -23,6 +23,32 @@ body, html{
   color: white;
 }
 
+.link-animation {
+  position: relative;
+  color: white;
+  text-decoration: none;
+}
+
+.link-animation:hover {
+  color: #DEE2E5;
+}
+
+.link-animation::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  left: 0;
+  height: 1px;
+  background: #DEE2E5;
+  transition: all 0.3s ease all 0s;
+}
+
+.link-animation:hover::after {
+  width: 100%;
+  bottom: -10%;
+  transition: 0.3s ease all;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

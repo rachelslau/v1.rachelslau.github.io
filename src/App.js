@@ -4,6 +4,7 @@ import './slideshow.js';
 import Home from './Home.js';
 import About from './About.js';
 import Projects from './Projects.js';
+import Coffee from './Coffee.js';
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
       <Home/>
       <About/>
       <Projects/>
+      <Coffee/>
       </div>
     );
   }

@@ -15,7 +15,9 @@ class Home extends Component {
                 &nbsp;•&nbsp;
                 <a href="#project-section" className="link-animation">projects</a>
                 &nbsp;•&nbsp;
-                <a className="link-animation" href="#">coffee</a>
+                <a href="#coffee-section" className="link-animation">coffee</a>
+                &nbsp;•&nbsp;
+                <a href="#" className="link-animation">contact</a>
               </div>
             </p>
           </div>
