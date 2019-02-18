@@ -52,7 +52,7 @@ class Home extends Component {
                 &nbsp;•&nbsp;
                 <a href="#coffee-section" className="link-animation">coffee</a>
                 &nbsp;•&nbsp;
-                 <a href="#coffee-section" className="link-animation">contact</a>
+                <a href="#contact-section" className="link-animation">contact</a>
             </div>
           </p>
           </div>
@@ -75,7 +75,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -98,7 +98,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -121,7 +121,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -144,7 +144,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -167,7 +167,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -190,7 +190,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -213,7 +213,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -236,7 +236,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -259,7 +259,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -282,7 +282,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -305,7 +305,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -328,7 +328,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -351,7 +351,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -374,7 +374,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                 <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -397,7 +397,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>
@@ -420,7 +420,7 @@ class Home extends Component {
                   &nbsp;•&nbsp;
                   <a href="#coffee-section" className="link-animation">coffee</a>
                   &nbsp;•&nbsp;
-                   <a href="#coffee-section" className="link-animation">contact</a>
+                  <a href="#contact-section" className="link-animation">contact</a>
               </div>
             </p>
             </div>

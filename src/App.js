@@ -5,6 +5,7 @@ import Home from './Home.js';
 import About from './About.js';
 import Projects from './Projects.js';
 import Coffee from './Coffee.js';
+import Contact from './Contact.js';
 
 class App extends Component {
   render() {
@@ -21,6 +22,9 @@ class App extends Component {
       </section>
       <section>
         <Coffee/>
+      </section>
+      <section>
+        <Contact/>
       </section>
       </div>
     );

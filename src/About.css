@@ -1,5 +1,5 @@
 .about-background {
-  background-color: #FCE3C9;
+  background-color: #DEE2E5;
   position: relative;
   width: 100vw;
   height: 100vh;
@@ -20,9 +20,9 @@
   height: 80vh;
   background-color: white;
   border-radius: .5%;
-  border: 2px solid #FCD1A4;
+  border: 2px solid grey;
   padding: 2.5%;
-  box-shadow: 15px -15px 0px 0px #FCD1A4;
+  box-shadow: 15px -15px 0px 0px grey;
   left: 0%;
   margin: 2.5%;
 }
@@ -31,5 +31,5 @@
   position: relative;
   width: 15vw;
   height: 5px;
-  background-color: #FCE3C9;
+  background-color: #DEE2E5;
 }
