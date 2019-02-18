@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "4152bb342ee01a78613c3c796524e890",
-    "url": "/static/media/koreapalace.4152bb34.JPG"
+    "revision": "443b610c2e0693f0b7945742ef20a4e4",
+    "url": "/static/media/seabrightrock.443b610c.JPG"
   },
   {
-    "revision": "65024042f85e81c922e3",
-    "url": "/static/css/main.1cd393dd.chunk.css"
+    "revision": "5ecf1b9a12b20b629140",
+    "url": "/static/css/main.05fd2ed7.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "310730946164da5a8e19aac53463519f",
-    "url": "/static/media/cat-coffee.31073094.gif"
+    "revision": "0a5c829569fe3ad22a6be4e200e2da1f",
+    "url": "/static/media/linkedinlogo.0a5c8295.png"
   },
   {
-    "revision": "794f5ed5e50cf16d94a5",
-    "url": "/static/js/2.794f5ed5.chunk.js"
+    "revision": "73886ddfe3231a369bb5",
+    "url": "/static/js/2.73886ddf.chunk.js"
   },
   {
     "revision": "65413f621e0af3726fc3062919b97da8",
@@ -52,16 +52,16 @@ self.__precacheManifest = [
     "url": "/static/media/homecafe.b59c1708.JPG"
   },
   {
-    "revision": "65024042f85e81c922e3",
-    "url": "/static/js/main.65024042.chunk.js"
+    "revision": "4152bb342ee01a78613c3c796524e890",
+    "url": "/static/media/koreapalace.4152bb34.JPG"
   },
   {
     "revision": "3a67e067e80d9cf59d57b25129786846",
     "url": "/static/media/paintedladies.3a67e067.jpg"
   },
   {
-    "revision": "443b610c2e0693f0b7945742ef20a4e4",
-    "url": "/static/media/seabrightrock.443b610c.JPG"
+    "revision": "5ecf1b9a12b20b629140",
+    "url": "/static/js/main.5ecf1b9a.chunk.js"
   },
   {
     "revision": "0f2a8c2aadb0ae4e3836d5b1d1a5d27a",
@@ -100,11 +100,23 @@ self.__precacheManifest = [
     "url": "/static/media/codebase.5d1677ca.jpg"
   },
   {
-    "revision": "794f5ed5e50cf16d94a5",
+    "revision": "310730946164da5a8e19aac53463519f",
+    "url": "/static/media/cat-coffee.31073094.gif"
+  },
+  {
+    "revision": "3738da31ee1c2dbc15078174096b6698",
+    "url": "/static/media/emaillogo.3738da31.png"
+  },
+  {
+    "revision": "d8ba604b6936a6b417c64dd51f9e1ddd",
+    "url": "/static/media/githublogo.d8ba604b.png"
+  },
+  {
+    "revision": "73886ddfe3231a369bb5",
     "url": "/static/css/2.5fb16b32.chunk.css"
   },
   {
-    "revision": "bfb0ce4373a28a64bb3b35cc10fcf85b",
+    "revision": "6657470d78ca6f10fe533df3b6b222eb",
     "url": "/index.html"
   }
 ];
