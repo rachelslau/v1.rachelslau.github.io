@@ -33,12 +33,12 @@
 
 .coffee-link-animation {
   position: relative;
-  color: #FCD1A4;
+  color: #FCE3C9;
   text-decoration: none;
 }
 
 .coffee-link-animation:hover {
-  color: white;
+  color: #FCD1A4;
 }
 
 .coffee-link-animation::after {
@@ -47,7 +47,7 @@
   width: 0;
   left: 0;
   height: 1px;
-  background: white;
+  background: #FCD1A4;
   transition: all 0.3s ease all 0s;
 }
 
