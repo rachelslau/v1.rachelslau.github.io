@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/seabrightrock.443b610c.JPG"
   },
   {
-    "revision": "5ecf1b9a12b20b629140",
-    "url": "/static/css/main.05fd2ed7.chunk.css"
+    "revision": "1938e45a1250263d5d05",
+    "url": "/static/css/main.70b997f8.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/static/media/paintedladies.3a67e067.jpg"
   },
   {
-    "revision": "5ecf1b9a12b20b629140",
-    "url": "/static/js/main.5ecf1b9a.chunk.js"
+    "revision": "1938e45a1250263d5d05",
+    "url": "/static/js/main.1938e45a.chunk.js"
   },
   {
     "revision": "0f2a8c2aadb0ae4e3836d5b1d1a5d27a",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.5fb16b32.chunk.css"
   },
   {
-    "revision": "6657470d78ca6f10fe533df3b6b222eb",
+    "revision": "21bee092b19a6fe8089ad702b62d9934",
     "url": "/index.html"
   }
 ];
