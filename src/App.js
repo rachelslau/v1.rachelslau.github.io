@@ -8,10 +8,6 @@ import Coffee from './Coffee.js';
 import Contact from './Contact.js';
 
 class App extends Component {
-  componentDidMount(){
-    document.title = "Rachel Lau"
-  }
-
   render() {
     return (
       <div>
