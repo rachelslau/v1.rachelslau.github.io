@@ -1,23 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "443b610c2e0693f0b7945742ef20a4e4",
-    "url": "/static/media/seabrightrock.443b610c.JPG"
+    "revision": "4152bb342ee01a78613c3c796524e890",
+    "url": "/static/media/koreapalace.4152bb34.JPG"
   },
   {
-    "revision": "1938e45a1250263d5d05",
-    "url": "/static/css/main.70b997f8.chunk.css"
+    "revision": "edbc32a297437a5a96d9",
+    "url": "/static/css/main.b26dfc86.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "0a5c829569fe3ad22a6be4e200e2da1f",
-    "url": "/static/media/linkedinlogo.0a5c8295.png"
+    "revision": "e4d04860976ad50ebb7227b310ff7022",
+    "url": "/static/media/morning-tea.e4d04860.jpg"
   },
   {
-    "revision": "73886ddfe3231a369bb5",
-    "url": "/static/js/2.73886ddf.chunk.js"
+    "revision": "85106c519ab996e10c2c",
+    "url": "/static/js/2.85106c51.chunk.js"
+  },
+  {
+    "revision": "0e866391d0e46a971c757a1dc91efb00",
+    "url": "/static/media/24-game.0e866391.jpg"
+  },
+  {
+    "revision": "5d1677ca0211e7db0da981dfc0b58db6",
+    "url": "/static/media/codebase.5d1677ca.jpg"
   },
   {
     "revision": "65413f621e0af3726fc3062919b97da8",
@@ -52,16 +60,16 @@ self.__precacheManifest = [
     "url": "/static/media/homecafe.b59c1708.JPG"
   },
   {
-    "revision": "4152bb342ee01a78613c3c796524e890",
-    "url": "/static/media/koreapalace.4152bb34.JPG"
+    "revision": "edbc32a297437a5a96d9",
+    "url": "/static/js/main.edbc32a2.chunk.js"
   },
   {
     "revision": "3a67e067e80d9cf59d57b25129786846",
     "url": "/static/media/paintedladies.3a67e067.jpg"
   },
   {
-    "revision": "1938e45a1250263d5d05",
-    "url": "/static/js/main.1938e45a.chunk.js"
+    "revision": "443b610c2e0693f0b7945742ef20a4e4",
+    "url": "/static/media/seabrightrock.443b610c.JPG"
   },
   {
     "revision": "0f2a8c2aadb0ae4e3836d5b1d1a5d27a",
@@ -92,14 +100,6 @@ self.__precacheManifest = [
     "url": "/static/media/profpic.36d786b1.jpg"
   },
   {
-    "revision": "0e866391d0e46a971c757a1dc91efb00",
-    "url": "/static/media/24-game.0e866391.jpg"
-  },
-  {
-    "revision": "5d1677ca0211e7db0da981dfc0b58db6",
-    "url": "/static/media/codebase.5d1677ca.jpg"
-  },
-  {
     "revision": "310730946164da5a8e19aac53463519f",
     "url": "/static/media/cat-coffee.31073094.gif"
   },
@@ -112,11 +112,15 @@ self.__precacheManifest = [
     "url": "/static/media/githublogo.d8ba604b.png"
   },
   {
-    "revision": "73886ddfe3231a369bb5",
+    "revision": "0a5c829569fe3ad22a6be4e200e2da1f",
+    "url": "/static/media/linkedinlogo.0a5c8295.png"
+  },
+  {
+    "revision": "85106c519ab996e10c2c",
     "url": "/static/css/2.5fb16b32.chunk.css"
   },
   {
-    "revision": "82b3a4ae5dff7849ce16a02eec2da47a",
+    "revision": "1ec8414590baf9a3ad6ddd1a9adb497c",
     "url": "/index.html"
   }
 ];
