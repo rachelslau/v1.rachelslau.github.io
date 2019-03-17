@@ -1,31 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "4152bb342ee01a78613c3c796524e890",
-    "url": "/static/media/koreapalace.4152bb34.JPG"
+    "revision": "3a67e067e80d9cf59d57b25129786846",
+    "url": "/static/media/paintedladies.3a67e067.jpg"
   },
   {
-    "revision": "edbc32a297437a5a96d9",
-    "url": "/static/css/main.b26dfc86.chunk.css"
+    "revision": "7eaa8a68cb7989bcd64f",
+    "url": "/static/css/main.abf96cac.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "e4d04860976ad50ebb7227b310ff7022",
-    "url": "/static/media/morning-tea.e4d04860.jpg"
+    "revision": "0a5c829569fe3ad22a6be4e200e2da1f",
+    "url": "/static/media/linkedinlogo.0a5c8295.png"
   },
   {
-    "revision": "85106c519ab996e10c2c",
-    "url": "/static/js/2.85106c51.chunk.js"
-  },
-  {
-    "revision": "0e866391d0e46a971c757a1dc91efb00",
-    "url": "/static/media/24-game.0e866391.jpg"
-  },
-  {
-    "revision": "5d1677ca0211e7db0da981dfc0b58db6",
-    "url": "/static/media/codebase.5d1677ca.jpg"
+    "revision": "c7876fa1e93186cc8212",
+    "url": "/static/js/2.c7876fa1.chunk.js"
   },
   {
     "revision": "65413f621e0af3726fc3062919b97da8",
@@ -60,12 +52,12 @@ self.__precacheManifest = [
     "url": "/static/media/homecafe.b59c1708.JPG"
   },
   {
-    "revision": "edbc32a297437a5a96d9",
-    "url": "/static/js/main.edbc32a2.chunk.js"
+    "revision": "4152bb342ee01a78613c3c796524e890",
+    "url": "/static/media/koreapalace.4152bb34.JPG"
   },
   {
-    "revision": "3a67e067e80d9cf59d57b25129786846",
-    "url": "/static/media/paintedladies.3a67e067.jpg"
+    "revision": "7eaa8a68cb7989bcd64f",
+    "url": "/static/js/main.7eaa8a68.chunk.js"
   },
   {
     "revision": "443b610c2e0693f0b7945742ef20a4e4",
@@ -112,15 +104,11 @@ self.__precacheManifest = [
     "url": "/static/media/githublogo.d8ba604b.png"
   },
   {
-    "revision": "0a5c829569fe3ad22a6be4e200e2da1f",
-    "url": "/static/media/linkedinlogo.0a5c8295.png"
-  },
-  {
-    "revision": "85106c519ab996e10c2c",
+    "revision": "c7876fa1e93186cc8212",
     "url": "/static/css/2.5fb16b32.chunk.css"
   },
   {
-    "revision": "1ec8414590baf9a3ad6ddd1a9adb497c",
+    "revision": "4036c07ca011437168dad31c2a90c806",
     "url": "/index.html"
   }
 ];
