@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/paintedladies.3a67e067.jpg"
   },
   {
-    "revision": "7eaa8a68cb7989bcd64f",
+    "revision": "ed993929a7df6fd7ad6a",
     "url": "/static/css/main.abf96cac.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/koreapalace.4152bb34.JPG"
   },
   {
-    "revision": "7eaa8a68cb7989bcd64f",
-    "url": "/static/js/main.7eaa8a68.chunk.js"
+    "revision": "ed993929a7df6fd7ad6a",
+    "url": "/static/js/main.ed993929.chunk.js"
   },
   {
     "revision": "443b610c2e0693f0b7945742ef20a4e4",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.5fb16b32.chunk.css"
   },
   {
-    "revision": "4036c07ca011437168dad31c2a90c806",
+    "revision": "0fb3e2f1db9f4b4dc7fa5435dd3b0ca1",
     "url": "/index.html"
   }
 ];
